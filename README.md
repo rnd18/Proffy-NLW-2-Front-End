@@ -69,14 +69,6 @@
    <img src="https://github.com/RafaelGoulartB/Proffy/blob/master/.github/web-list.png" width="400px">
 </div>
 
-### Mobile Screenshot
-<div style="display: flex; flex-direction: 'row';">
-   <img src="https://github.com/RafaelGoulartB/Proffy/blob/master/.github/mobile-splash.png" width="180">
-   <img src="https://github.com/RafaelGoulartB/Proffy/blob/master/.github/mobile-onboarding.png" width="180">
-   <img src="https://github.com/RafaelGoulartB/Proffy/blob/master/.github/mobile-home.png" width="180">
-   <img src="https://github.com/RafaelGoulartB/Proffy/blob/master/.github/mobile-favoritos.png" width="180">
-</div>
-
 # :computer: Tecnologias
 Esse projeto foi feito utilizando as seguintes tecnologias:
 <ul>
