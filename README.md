@@ -4,7 +4,8 @@
 
 <p align="center">	
    <a href="https://www.linkedin.com/in/ramon-duarte-91b77a15a/">
-      <img alt="Ramon Duarte" src="" />
+      <img alt="Ramon Duarte" src="https://i.imgur.com/Bi3xz4t.jpg" />
+      
    </a>
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/RafaelGoulartB/proffy?color=774DD6">
 
