@@ -4,7 +4,7 @@
 
 <p align="center">	
    <a href="https://www.linkedin.com/in/ramon-duarte-91b77a15a/">
-      <img alt="Ramon Duarte" src="https://img.shields.io/badge/-RafaelGoulartB-8257E5?style=flat&logo=Linkedin&logoColor=white" />
+      <img alt="Ramon Duarte" src="" />
    </a>
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/RafaelGoulartB/proffy?color=774DD6">
 
@@ -23,15 +23,13 @@
 > :rocket: Projeto feito para conectar professores e estudantes, feito na Next Level Week #2 @Rocketseat
 
 <p align="center">
-    <a href="README.md">Inglês</a>
-    ·
     <a href="README-pt.md">Português</a>
  </p>
 
 <div align="center">
   <sub>The NLW #2 project. Built with ❤︎ by
-    <a href="https://github.com/RafaelGoulartB">Rafael Goulart</a> and
-    <a href="https://github.com/RafaelGoulartB/Proffy/graphs/contributors">
+    <a href="https://github.com/rnd18">Ramon Duarte</a> and
+    <a href="https://github.com/rnd18/Front-NextLevelWeek2">
       contributors
     </a>
   </sub>
