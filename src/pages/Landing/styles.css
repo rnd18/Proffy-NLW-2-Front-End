@@ -7,7 +7,7 @@
   align-items: center;
 
   color: var(---color-text-in-primary);
-  background: var(--color-primary);
+  background:#0079BF;
 }
 
 .logo-container img {
@@ -28,7 +28,7 @@
   font-size: 2.4rem;
   line-height: 4.6rem;
   margin-top: 0.8rem;
-  color: var(--color-text-in-primary);
+  color: #fff;
 }
 
 .buttons-container {
@@ -39,7 +39,7 @@
 
 .buttons-container a {
   width: 30rem;
-  height: 10.4rem;
+  height: 9.4rem;
   border-radius: 0.8rem;
   font: 700 2.0rem Archivo;
 
@@ -62,20 +62,20 @@
   margin-right: 2.4rem;
 }
 
-.buttons-container a.study {
-  background: var(--color-primary-lighter);
+.buttons-container a.registrar-pedido {
+  background: #00a2ff;
 }
 
-.buttons-container a.give-classes {
-  background: var(--color-secundary);
+.buttons-container a.pedidos {
+  background: #00a2ff;
 }
 
-.buttons-container a.study:hover {
-  background: var(--color-primary-light);
+.buttons-container a.registrar-pedido:hover {
+  background: #23aeff;
 }
 
-.buttons-container a.give-classes:hover {
-  background: var(--color-secundary-dark);
+.buttons-container a.pedidos:hover {
+  background: #23aeff;
 }
 
 .total-connections {
@@ -83,7 +83,7 @@
   display: flex;
   align-items: center;
   justify-content: center;
-  color: var(--color-text-in-primary);
+  color: #fff;
 }
 
 .total-connections img {
